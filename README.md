@@ -1,16 +1,16 @@
 # Algorithm Explorer
 
 A menu-driven Python program that teaches basic problem-solving algorithms
-by running them and showing the steps. Built for **CSE1021 - Introduction to
-Problem Solving and Programming**.
+by running them and showing the steps. Built for 'CSE1021 - Introduction to
+Problem Solving and Programming'.
 
 ## Overview
-Instead of just giving an answer, Algorithm Explorer shows *how* an algorithm
+Instead of just giving an answer, Algorithm Explorer shows how an algorithm
 gets there (for example, each division in Euclid's GCD algorithm). It covers
 Units 3-5 of the syllabus and ends with a quiz so you can test yourself.
 
 ## Features
-- **Number Algorithms:** factorial, Fibonacci series, reverse a number, base conversion (2-16), swap values, digit count/sum, character-to-number
+- **Number Algorithms:** factorial, Fibonacci series, reverse a number, base conversion (2-16), swap values, digit count/sum, character to number
 - **Factoring Methods:** GCD and LCM (with steps), prime check, sieve of primes, prime factors, Newton's square root, fast power, fast nth Fibonacci, pseudo-random numbers
 - **Arrays and Collections:** reverse, count, min/max (tuple), remove duplicates, partition, k-th smallest, set operations, word frequency (dictionary)
 - **Practice Quiz:** 5 random questions with scoring
