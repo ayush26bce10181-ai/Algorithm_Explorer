@@ -72,4 +72,5 @@ LCM = 144
 _Add screenshots of the main menu, a GCD run and the quiz here._
 
 ## Author
-Your Name - Ayush Nain Reg. No. - 26BCE10181
+Your Name - Ayush Nain
+Reg. No. - 26BCE10181
