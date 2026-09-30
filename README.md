@@ -67,10 +67,6 @@ Euclid's algorithm steps:
 GCD = 6
 LCM = 144
 ```
-
-## Screenshots
-_Add screenshots of the main menu, a GCD run and the quiz here._
-
 ## Author
 Your Name - Ayush Nain
 Reg. No. - 26BCE10181
